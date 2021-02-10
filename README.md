@@ -3,7 +3,8 @@
 # 11-Express-Note-Taker
 
 :computer: [Link to Deployed Application](https://roseannenotes1.herokuapp.com/)
-[Link to Previous Git Hub Repo that Failed](https://github.com/roseannenguyen/11-Express-Note-Taker)
+
+:arrow_right:[Link to Previous Git Hub Repo that Failed](https://github.com/roseannenguyen/11-Express-Note-Taker)
 
 ## Table of Contents
 
