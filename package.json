@@ -1,0 +1,25 @@
+{
+  "name": "11-express-note-taker-updated",
+  "version": "1.0.0",
+  "description": "Express note taker application allows you to add, save, and delete notes.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roseannenguyen/11-Express-Note-Taker-Updated.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roseannenguyen/11-Express-Note-Taker-Updated/issues"
+  },
+  "homepage": "https://github.com/roseannenguyen/11-Express-Note-Taker-Updated#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "path": "^0.12.7",
+    "uuid": "^8.3.2"
+  }
+}
